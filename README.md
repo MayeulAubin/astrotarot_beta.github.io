@@ -7,4 +7,4 @@ To learn how to play french tarot, there is a Tarot Rules card.
 
 The full deck of cards:
 
-![All cards astro tarot beta deck](https://github.com/[username]/[reponame]/blob/[branch]/all_cards_astrotarot_beta.jpg?raw=true)
+![All cards astro tarot beta deck](https://github.com/MayeulAubin/astrotarot_beta.github.io/blob/main/all_cards_astrotarot_beta.jpg?raw=true)
